@@ -1,0 +1,10 @@
+La anemia es un trastorno sanguíneo caracterizado por una disminución en la cantidad de glóbulos rojos o en la 
+concentración de hemoglobina en la sangre.  La hemoglobina es una proteína rica en hierro que permite a los glóbulos rojos
+transportar oxígeno desde los pulmones hacia los tejidos y órganos del cuerpo. 
+Las causas más comunes incluyen la deficiencia de hierro, la falta de vitaminas(como B12 y ácido fólico),
+enfermedades crónicas, infecciones o la pérdida excesiva de sangre. es un problema de salud pública global que 
+afecta principalmente a mujeres, niños y niñas, siendo prevenible y tratable
+mediante dieta, tratamientos o suplemento médico según las causas adyacentes.
+Sus síntomas son:
+-Fatiga y debilidad generalizada.
+-Palidez de la piel, etc.
