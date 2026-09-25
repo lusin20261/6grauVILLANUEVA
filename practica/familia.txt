@@ -1,0 +1,5 @@
+1: Mi mamá
+2: Mi papá
+3: Mi hermana
+4: Mi prima
+5: Mi abuela mayterna y paterna

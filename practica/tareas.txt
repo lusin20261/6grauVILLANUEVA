@@ -1,0 +1,5 @@
+1: Lavar los platos
+2: Tender la cama
+3: Limpiar la cocina
+4: Ir a estudiar
+5: Lavar la ropa
