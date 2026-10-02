@@ -1,0 +1,12 @@
+En esta descripción, escribiremos los pasos para realizar correctamente el examen :
+1. Entramos a github y copiamos nuestro enlace SSH.
+2. Luego, abrimos la terminal Kitty e ingresamos al espacio de trabajo(Alumnos).
+3. Pegamos nuestro enlace o link(ctrl+shift+v), pero antes escribimos el comando : git clone [link o enlace].
+4. Presionamos enter e ingresamos a nuestro repositorio.
+5. Creamos la carpeta "examenSeptiembre" con el comando : mkdir [nombre de la carpeta].
+6. Ingresamos a la carpeta y creamos el archivo "examen.txt" con el comando : touch [nombre del archivo].
+7. Regresamos a nuestro repositorio con el comando : cd ..
+8. Colocamos el comando "code ." y editamos nuestro archivo llamado "examen.txt".
+9. Regresamos a la termninal, y luego, ralizamnos los comandos en el orden : [git add .], [git commit -m "Mensaje o ti
+tulo], [git push origin main].
+10. ¡Y listo!, revisamos en nuestro repoositorio para ver los cambios.
