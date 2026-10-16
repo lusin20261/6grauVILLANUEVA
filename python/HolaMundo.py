@@ -1,0 +1,23 @@
+print("Datos sobre mi");
+print("------------------------------------------");
+print("Mi nombre:");
+print("Abigail Villanueva Hidalgo");
+print("Mi edad:");
+print(10+2);
+print("------------------------------------------");
+print("Diferencias entre números y letras:");
+print("6"+"7")
+número = 13;
+print(número);
+print("------------------------------------------");
+print("Aprendiendo a sumar y multiplicar:");
+variableA = 67;
+variableB = 69;
+resultado = variableA + variableB * variableA * variableB;
+print("la solución de este pequeño problema de variables es: ",resultado);
+print("------------------------------------------");
+print("Escribe tus datos:");
+nombre = input("Escribe tu nombre: ");
+edad = input("Escribe tu edad actual: ");
+grado = input("Escribe tu grado: ");
+print("!Hola "+nombre+"¡, tu edad es "+edad+" y tu grado es "+grado+", ¿Te gustó este truco de magia?");
